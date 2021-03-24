@@ -3,7 +3,7 @@
 </p>
 
 <h3>Soy desarrollador Backend apasionado por tecnologías surgientes enfocado en el desarrollo web con PHP.</h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="200" height="150" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="300" height="150" />
 
 <h4>Actualmente tengo conocimientos en: </h4>
 
