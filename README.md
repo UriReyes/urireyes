@@ -2,17 +2,32 @@
 <p align="center">
 </p>
 
-<h3>Soy desarrollador Backend apasionado por tecnologías surgientes enfocado en el desarrollo web con PHP, utilizando Laravel.</h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="500" height="320" />
+<h3>Soy desarrollador Backend apasionado por tecnologías surgientes enfocado en el desarrollo web con PHP.</h3>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="200" height="150" />
 
 <h4>Actualmente tengo conocimientos en: </h4>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></code>
+<code><img height="40" src="https://i0.wp.com/courseclub.net/wp-content/uploads/2018/10/65432123.png?resize=400%2C400&ssl=1"></code>
+<code><img height="40" src="https://laravel-livewire.com/img/twitter.png"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/composer.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
+<code><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/html5.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></code>
+<code><img height="40"  src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"></code>
+<code><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/npm.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
+<code><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/logo-ubuntu-no-r-black-orange-hex.svg"></code>
+
+- 🌱 Actualmente estoy aprendiendo ...
+  <br><br>
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg">
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
 
 <!--
 **UriReyes/urireyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
