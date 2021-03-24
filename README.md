@@ -7,27 +7,27 @@
 
 <h4>Actualmente tengo conocimientos en: </h4>
 
-<code><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></code>
-<code><img height="40" src="https://i0.wp.com/courseclub.net/wp-content/uploads/2018/10/65432123.png?resize=400%2C400&ssl=1"></code>
-<code><img height="40" src="https://laravel-livewire.com/img/twitter.png"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/composer.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
-<code><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/html5.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></code>
-<code><img height="40"  src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"></code>
-<code><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/npm.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
-<code><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/logo-ubuntu-no-r-black-orange-hex.svg"></code>
+<code><img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"></code>
+<code><img height="60" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></code>
+<code><img height="60" src="https://i0.wp.com/courseclub.net/wp-content/uploads/2018/10/65432123.png?resize=400%2C400&ssl=1"></code>
+<code><img height="60" src="https://laravel-livewire.com/img/twitter.png"></code>
+<code><img height="60" src="https://cdn.worldvectorlogo.com/logos/composer.svg"></code>
+<code><img height="60" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
+<code><img height="60" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
+<code><img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg"></code>
+<code><img height="60" src="https://cdn.worldvectorlogo.com/logos/html5.svg"></code>
+<code><img height="60" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></code>
+<code><img height="60"  src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"></code>
+<code><img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/npm.svg"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="60" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"></code>
+<code><img height="60" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
+<code><img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/logo-ubuntu-no-r-black-orange-hex.svg"></code>
 
 - 🌱 Actualmente estoy aprendiendo ...
   <br><br>
-  <img height="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg">
-  <img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+  <img height="60" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg">
+  <img height="60" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
 
 <!--
 **UriReyes/urireyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
